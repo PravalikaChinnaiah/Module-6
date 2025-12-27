@@ -60,6 +60,7 @@ print("Area of Rectangle:", rect.calculate_area())
 print("Area of Circle:", circle.calculate_area())
 ~~~
 ## Output
+<img width="1150" height="450" alt="image" src="https://github.com/user-attachments/assets/2114ad1c-9537-4a45-a345-b308d97eeef4" />
 
 ## Result
 Thus,the Python program to create an **abstract class** named `Shape` with an **abstract method** `calculate_area`, and implement this method in two subclasses: `Rectangle` and `Circle is created successfully.
