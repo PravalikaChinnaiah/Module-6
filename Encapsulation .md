@@ -38,6 +38,7 @@ rect = Rectangle(10, 5)
 ~~~
 
 ## Output
+<img width="497" height="288" alt="image" src="https://github.com/user-attachments/assets/53909b4f-f516-44bb-b915-84c249336b2e" />
 
 
 ## Result
