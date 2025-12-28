@@ -41,7 +41,7 @@ ob2 = A(10)
 print(ob1 < ob2)
 ~~~
 ## Output
-<img width="816" height="283" alt="image" src="https://github.com/user-attachments/assets/e192de9f-b4e6-4851-9c81-e9d6b8ec7efa" />
+<img width="662" height="267" alt="image" src="https://github.com/user-attachments/assets/724320ac-9670-427a-9f09-09ba27e1c54b" />
 
 ## Result
 Thus,the Python program demonstrates **operator overloading** by overloading the **less than (`<`)** operator using a custom class is created successfully.
